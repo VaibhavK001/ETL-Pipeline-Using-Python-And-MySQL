@@ -1,0 +1,461 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,total_amount,payment_method,order_status,city
+ORD10060,2026-03-13,CUST1222,Running Shoes,Footwear,2,2810.70,5621.40,UPI,Processing,Hyderabad
+ORD10296,2026-07-28,CUST1005,T-Shirt,Fashion,5,845.00,4225.00,Debit Card,Processing,Mumbai
+ORD10334,2026-07-16,CUST1035,Wireless mouse,Electronics,3,679.89,2039.67,Cash on Delivery,Processing,Delhi
+ORD10281,2026-07-03,CUST1082,Backpack,Bags,2,1697.85,3395.70,Debit Card,Cancelled,Nashik
+ORD10398,2026-04-01,CUST1043,Jeans,Fashion,2,2093.51,4187.02,Net Banking,Delivered,Ahmedabad
+ORD10298,2026-07-04,CUST1014,Laptop Stand,Accessories,5,1329.25,6646.25,Net Banking,Cancelled,Nashik
+ORD10107,2026-03-06,CUST1060,T-Shirt,Fashion,4,837.22,3348.88,UPI,Shipped,Hyderabad
+ORD10293,2026-07-25,CUST1122,Wireless Mouse,Electronics,2,743.79,1487.58,Net Banking,Cancelled,Nashik
+ORD10349,2026-08-05,CUST1095,Webcam,Electronics,1,2477.54,2477.54,UPI,Returned,Nagpur
+ORD10416,2026-05-06,CUST1074,T-Shirt,Fashion,2,913.81,1827.62,Credit Card,Shipped,Hyderabad
+ORD10174,2026-03-04,CUST1033,Wireless Mouse,Electronics,1,759.14,759.14,Net Banking,Shipped,Mumbai
+ORD10240,2026-03-15,CUST1061,Water Bottle,Home & Kitchen,4,617.47,2469.88,Debit Card,Delivered,Pune
+ORD10277,2026-06-14,CUST1198,Wireless Mouse,Electronics,1,611.18,611.18,Net Banking,Processing,Pune
+ORD10231,2026-04-29,CUST1197,Running Shoes,Footwear,5,3320.32,16601.60,Debit Card,Cancelled,Kolkata
+ORD10267,2026-02-21,CUST1203,Water Bottle,Home & Kitchen,2,619.60,1239.20,Credit Card,Shipped,Chennai
+ORD10348,2026-02-04,CUST1100,Power Bank,Electronics,4,1524.76,6099.04,Credit Card,Processing,Nagpur
+ORD10125,2026-06-22,CUST1215,Laptop Stand,Accessories,1,1139.74,1139.74,Net Banking,Returned,Pune
+ORD10401,2026-04-29,CUST1198,Bluetooth Headphones,Electronics,4,1923.51,7694.04,Net Banking,Returned,Nashik
+ORD10265,2026-07-27,CUST1175,Desk Lamp,Home & Kitchen,4,1377.87,5511.48,Debit Card,Processing,Mumbai
+ORD10198,2026-07-13,CUST1159,Desk Lamp,Home & Kitchen,1,1075.11,1075.11,UPI,Delivered,Bengaluru
+ORD10325,2026-02-04,CUST1123,Webcam,Electronics,5,2014.84,10074.20,Credit Card,Cancelled,Ahmedabad
+ORD10143,2026-06-01,CUST1085,Phone Case,Accessories,1,443.05,443.05,UPI,Cancelled,Mumbai
+ORD10399,2026-03-26,CUST1248,Running Shoes,Footwear,4,3304.99,13219.96,Cash on Delivery,Delivered,Pune
+ORD10130,2026-01-30,CUST1249,Mechanical Keyboard,Electronics,3,2313.37,6940.11,Cash on Delivery,Returned,Pune
+ORD10171,2026-02-25,CUST1114,Laptop Stand,Accessories,1,1373.15,1373.15,Cash on Delivery,Shipped,Hyderabad
+ORD10193,2026-07-29,CUST1160,Smart Watch,Electronics,5,3997.13,19985.65,Net Banking,Returned,Pune
+ORD10268,2026-04-05,CUST1120,Wireless Mouse,Electronics,3,710.33,2130.99,Net Banking,Shipped,Ahmedabad
+ORD10033,2026-03-13,CUST1119,Phone Case,Accessories,2,487.31,974.62,Credit Card,Delivered,Chennai
+ORD10150,2026-05-16,CUST1106,Webcam,Electronics,4,1965.18,7860.72,Net Banking,Shipped,Nashik
+ORD10004,2026-08-11,CUST1002,Phone Case,Accessories,5,465.80,2329.00,Credit Card,Cancelled,Hyderabad
+ORD10292,2026-05-11,CUST1103,Jeans,Fashion,2,1818.53,3637.06,Net Banking,Delivered,Pune
+ORD10068,2026-08-02,CUST1001,Backpack,Bags,3,1748.31,5244.93,Debit Card,Processing,Nagpur
+ORD10395,2026-06-18,CUST1040,Running Shoes,Footwear,3,2674.64,8023.92,Cash on Delivery,Cancelled,Mumbai
+ORD10326,2026-08-22,CUST1121,Webcam,Electronics,4,2332.22,9328.88,Net Banking,Shipped,Nagpur
+ORD10160,2026-04-17,CUST1045,Mechanical Keyboard,Electronics,3,2369.09,7107.27,Credit Card,Shipped,Kolkata
+ORD10470,2026-04-05,CUST1152,T-Shirt,Fashion,5,829.57,4147.85,Cash on Delivery,Shipped,Kolkata
+ORD10266,2026-03-18,CUST1218,Water Bottle,Home & Kitchen,5,655.04,3275.20,Credit Card,Shipped,Hyderabad
+ORD10463,2026-08-17,CUST1147,USB-C Hub,Electronics,3,1730.12,5190.36,UPI,Shipped,Kolkata
+ORD10297,2026-08-19,CUST1186,Power Bank,Electronics,5,1412.51,7062.55,UPI,Returned,Chennai
+ORD10003,2026-05-24,CUST1051,Bluetooth Headphones,Electronics,5,2060.18,10300.90,Net Banking,Cancelled,Nagpur
+ORD10275,2026-01-24,CUST1129,Running Shoes,Footwear,3,2998.52,8995.56,Credit Card,Returned,Ahmedabad
+ORD10393,2026-07-16,CUST1141,Backpack,Bags,5,1626.26,8131.30,UPI,Cancelled,Nagpur
+ORD10305,2026-06-26,CUST1181,Jeans,Fashion,3,2121.88,6365.64,Cash on Delivery,Processing,Chennai
+ORD10396,2026-04-13,CUST1137,Phone Case,Accessories,5,495.89,2479.45,Net Banking,Cancelled,Kolkata
+ORD10404,2026-06-28,CUST1116,Phone Case,Accessories,1,489.74,489.74,Debit Card,Delivered,Bengaluru
+ORD10264,2026-02-04,CUST1219,T-Shirt,Fashion,4,818.14,3272.56,UPI,Cancelled,Nashik
+ORD10109,2026-05-15,CUST1153,Laptop Stand,Accessories,5,1484.73,7423.65,Debit Card,Delivered,Nagpur
+ORD10223,2026-08-23,CUST1090,Mechanical Keyboard,Electronics,5,2621.66,13108.30,Debit Card,Cancelled,Nashik
+ORD10464,2026-01-04,CUST1063,Wireless Mouse,Electronics,1,774.22,774.22,UPI,Cancelled,Hyderabad
+ORD10375,2026-06-26,CUST1186,Power Bank,Electronics,2,1629.64,3259.28,UPI,Returned,Hyderabad
+ORD10064,2026-01-01,CUST1134,Laptop Stand,Accessories,1,1380.36,1380.36,Net Banking,Shipped,Hyderabad
+ORD10200,2026-03-14,CUST1174,Mechanical Keyboard,Electronics,3,2446.46,7339.38,Net Banking,Cancelled,Kolkata
+ORD10145,2026-06-27,CUST1102,Jeans,Fashion,3,1902.19,5706.57,UPI,Processing,Kolkata
+ORD10078,2026-08-04,CUST1164,Phone Case,Accessories,3,536.69,1610.07,Debit Card,Returned,Chennai
+ORD10430,2026-04-07,CUST1116,Backpack,Bags,3,1867.98,5603.94,UPI,Delivered,Delhi
+ORD10389,2026-04-21,CUST1209,Power Bank,Electronics,3,1472.12,4416.36,Net Banking,Shipped,Bengaluru
+ORD10162,2026-03-28,CUST1206,Jeans,Fashion,3,2146.86,6440.58,UPI,Cancelled,Mumbai
+ORD10451,2026-08-28,CUST1082,Desk Lamp,Home & Kitchen,1,1374.13,1374.13,Credit Card,Cancelled,Ahmedabad
+ORD10062,2026-03-09,CUST1010,Desk Lamp,Home & Kitchen,3,1083.38,3250.14,UPI,Delivered,Delhi
+ORD10302,2026-06-19,CUST1123,Water Bottle,Home & Kitchen,2,711.77,1423.54,Net Banking,Cancelled,Hyderabad
+ORD10037,2026-05-05,CUST1040,T-Shirt,Fashion,5,942.66,4713.30,Credit Card,Processing,Nagpur
+ORD10210,2026-02-19,CUST1232,Running Shoes,Footwear,1,2925.62,2925.62,Debit Card,Processing,Nashik
+ORD10353,2026-04-12,CUST1235,T-Shirt,Fashion,5,953.96,4769.80,Credit Card,Returned,Hyderabad
+ORD10339,2026-08-28,CUST1227,Wireless Mouse,Electronics,4,723.10,2892.40,UPI,Shipped,Nagpur
+ORD10452,2026-02-14,CUST1196,Power Bank,Electronics,3,1519.85,4559.55,Cash on Delivery,Delivered,Pune
+ORD10083,2026-01-02,CUST1242,Smart Watch,Electronics,5,3373.44,16867.20,Debit Card,Processing,Delhi
+ORD10002,2026-04-19,CUST1009,Running Shoes,Footwear,5,2539.76,12698.80,UPI,Delivered,Nagpur
+ORD10259,2026-01-18,CUST1061,Running Shoes,Footwear,4,2494.41,9977.64,Debit Card,Processing,Delhi
+ORD10374,2026-05-26,CUST1214,Laptop Stand,Accessories,2,1323.92,2647.84,Cash on Delivery,Returned,Hyderabad
+ORD10036,2026-03-09,CUST1238,Power Bank,Electronics,1,1717.24,1717.24,Cash on Delivery,Processing,Delhi
+ORD10212,2026-05-25,CUST1195,USB-C Hub,Electronics,4,1581.71,6326.84,Net Banking,Cancelled,Ahmedabad
+ORD10243,2026-03-03,CUST1147,Power Bank,Electronics,1,1550.63,1550.63,Cash on Delivery,Shipped,Mumbai
+ORD10341,2026-02-25,CUST1194,Power Bank,Electronics,4,1379.53,5518.12,UPI,Shipped,Kolkata
+ORD10462,2026-05-08,CUST1220,Phone Case,Accessories,5,478.06,2390.30,Net Banking,Shipped,Hyderabad
+ORD10204,2026-07-26,CUST1091,Water Bottle,,5,768.90,3844.50,UPI,Cancelled,Pune
+ORD10013,2026-05-26,CUST1225,Mechanical Keyboard,Electronics,2,2808.73,5617.46,Debit Card,Shipped,Chennai
+ORD10233,2026-05-22,CUST1240,Wireless Mouse,Electronics,4,777.45,3109.80,UPI,Returned,Mumbai
+ORD10383,2026-05-22,CUST1024,Mechanical Keyboard,Electronics,1,2191.34,2191.34,Net Banking,Returned,Hyderabad
+ORD10440,2026-05-03,CUST1020,T-Shirt,Fashion,1,764.44,764.44,Credit Card,Returned,Nagpur
+ORD10480,2026-04-29,CUST1068,Jeans,Fashion,2,1970.16,3940.32,UPI,Delivered,Nashik
+ORD10472,2026-01-01,CUST1195,Webcam,Electronics,1,2496.52,2496.52,Cash on Delivery,Processing,Mumbai
+ORD10433,2026-04-12,CUST1056,Smart Watch,Electronics,1,3809.37,3809.37,Cash on Delivery,Shipped,Chennai
+ORD10471,2026-08-27,CUST1105,Jeans,Fashion,2,1789.44,3578.88,UPI,Shipped,Kolkata
+ORD10056,2026-07-27,CUST1046,Smart Watch,Electronics,2,3998.87,7997.74,Cash on Delivery,Delivered,Nashik
+ORD10119,2026-05-01,CUST1075,Power Bank,Electronics,4,1584.16,6336.64,UPI,Shipped,Bengaluru
+ORD10118,2026-02-14,CUST1142,Laptop Stand,Accessories,1,1165.36,1165.36,UPI,Shipped,Pune
+ORD10055,2026-04-15,CUST1250,Jeans,Fashion,5,2229.37,11146.85,Net Banking,Shipped,Nagpur
+ORD10220,2026-08-23,CUST1073,Backpack,Bags,2,1725.55,3451.10,Cash on Delivery,Cancelled,Hyderabad
+ORD10473,2026-04-18,CUST1126,Bluetooth Headphones,Electronics,5,2288.72,11443.60,UPI,Shipped,Bengaluru
+ORD10457,2026-01-23,CUST1237,T-Shirt,Fashion,2,779.77,1559.54,Cash on Delivery,Delivered,Chennai
+ORD10254,2026-06-04,CUST1211,T-Shirt,Fashion,4,785.44,3141.76,Credit Card,Returned,Bengaluru
+ORD10131,2026-01-14,CUST1049,Running Shoes,Footwear,5,2865.93,14329.65,Net Banking,Processing,Ahmedabad
+ORD10169,2026-06-21,CUST1244,USB-C Hub,Electronics,4,1576.76,6307.04,Net Banking,Cancelled,Ahmedabad
+ORD10261,2026-05-16,CUST1094,Jeans,Fashion,1,2043.33,2043.33,Cash on Delivery,Processing,Bengaluru
+ORD10236,2026-04-09,CUST1021,Power Bank,Electronics,5,1442.32,7211.60,Debit Card,Shipped,Pune
+ORD10478,2026-02-04,CUST1200,Bluetooth Headphones,Electronics,1,2265.00,2265.00,Net Banking,Delivered,Nashik
+ORD10216,2026-05-10,CUST1099,Mechanical Keyboard,Electronics,1,2585.22,2585.22,Cash on Delivery,Returned,Kolkata
+ORD10080,2026-01-21,CUST1036,Webcam,Electronics,3,2458.28,7374.84,Credit Card,Shipped,Delhi
+ORD10207,2026-06-08,CUST1118,Webcam,Electronics,2,2397.78,4795.56,Debit Card,Delivered,Delhi
+ORD10129,2026-04-13,CUST1209,Power Bank,Electronics,4,1403.76,5615.04,Net Banking,Delivered,Chennai
+ORD10390,2026-02-21,CUST1123,Webcam,Electronics,5,2494.07,12470.35,Debit Card,Shipped,Delhi
+ORD10157,2026-07-10,CUST1128,Backpack,Bags,1,2020.61,2020.61,Debit Card,Shipped,Ahmedabad
+ORD10363,2026-06-08,CUST1164,Water Bottle,Home & Kitchen,4,672.41,2689.64,Net Banking,Cancelled,Chennai
+ORD10065,2026-08-24,CUST1085,Power Bank,Electronics,1,1700.86,1700.86,Net Banking,Processing,Mumbai
+ORD10005,2026-07-15,CUST1087,Laptop Stand,Accessories,2,1188.06,2376.12,UPI,Delivered,Delhi
+ORD10092,2026-07-16,CUST1095,Bluetooth Headphones,Electronics,4,2118.62,8474.48,Credit Card,Returned,Ahmedabad
+ORD10051,2026-03-09,CUST1042,Webcam,Electronics,2,2289.45,4578.90,Cash on Delivery,Returned,Delhi
+ORD10321,2026-08-28,CUST1064,USB-C Hub,Electronics,2,1588.18,3176.36,UPI,Processing,Delhi
+ORD10444,2026-06-16,CUST1043,Water Bottle,Home & Kitchen,5,595.93,2979.65,Cash on Delivery,Processing,Nagpur
+ORD10117,2026-06-06,CUST1246,Laptop Stand,Accessories,5,1346.16,6730.80,UPI,Shipped,Nagpur
+ORD10310,2026-03-03,CUST1063,Mechanical Keyboard,Electronics,5,2679.60,13398.00,UPI,Returned,Nagpur
+ORD10186,2026-07-31,CUST1117,Phone Case,Accessories,2,486.10,972.20,Cash on Delivery,Cancelled,Mumbai
+ORD10074,2026-01-02,CUST1229,Bluetooth Headphones,Electronics,2,2092.59,4185.18,UPI,Cancelled,Nagpur
+ORD10360,2026-07-04,CUST1140,T-Shirt,Fashion,3,809.80,2429.40,Cash on Delivery,Shipped,Kolkata
+ORD10379,2026-03-05,CUST1183,Mechanical Keyboard,Electronics,5,2345.60,11728.00,UPI,Delivered,Bengaluru
+ORD10391,2026-06-12,CUST1126,Webcam,Electronics,3,2353.95,7061.85,Net Banking,Shipped,Hyderabad
+ORD10135,2026-08-22,CUST1030,Mechanical Keyboard,Electronics,2,2868.05,5736.10,Cash on Delivery,Delivered,Nashik
+ORD10450,2026-05-08,CUST1164,Phone Case,Accessories,4,441.03,1764.12,Net Banking,Delivered,Kolkata
+ORD10218,2026-01-16,CUST1116,Phone Case,Accessories,5,446.73,2233.65,UPI,Processing,Mumbai
+ORD10190,2026-07-04,CUST1014,Smart Watch,Electronics,4,3885.39,15541.56,Debit Card,Returned,Bengaluru
+ORD10050,2026-04-19,CUST1213,Laptop Stand,Accessories,1,1140.12,1140.12,Debit Card,Delivered,Pune
+ORD10247,2026-04-01,CUST1140,T-Shirt,Fashion,3,800.13,2400.39,Debit Card,Shipped,Chennai
+ORD10234,2026-03-11,CUST1116,Laptop Stand,Accessories,1,1401.54,1401.54,Net Banking,Shipped,Delhi
+ORD10244,2026-05-15,CUST1140,Water Bottle,Home & Kitchen,3,608.34,1825.02,Net Banking,Returned,Kolkata
+ORD10346,2026-03-18,CUST1097,T-Shirt,Fashion,4,874.26,3497.04,Credit Card,Returned,Chennai
+ORD10276,2026-07-04,CUST1231,USB-C Hub,Electronics,2,1675.14,3350.28,Net Banking,Processing,Ahmedabad
+ORD10442,2026-01-23,CUST1188,Phone Case,Accessories,1,458.42,458.42,UPI,Delivered,Hyderabad
+ORD10382,2026-04-25,CUST1143,USB-C Hub,Electronics,1,1449.04,1449.04,Net Banking,Returned,Delhi
+ORD10069,2026-03-24,CUST1120,Power Bank,Electronics,5,1546.97,7734.85,Cash on Delivery,Cancelled,Nagpur
+ORD10437,2026-06-26,CUST1233,Wireless Mouse,Electronics,4,636.58,2546.32,Credit Card,Processing,Nashik
+ORD10149,2026-01-12,CUST1084,T-Shirt,Fashion,3,1007.80,3023.40,UPI,Processing,Hyderabad
+ORD10324,2026-08-25,CUST1230,USB-C Hub,Electronics,4,1688.26,6753.04,Debit Card,Delivered,Bengaluru
+ORD10378,2026-04-07,CUST1111,Bluetooth Headphones,Electronics,3,2030.81,6092.43,,Returned,Delhi
+ORD10283,2026-01-25,CUST1013,Laptop Stand,Accessories,4,1200.76,4803.04,Debit Card,Cancelled,Ahmedabad
+ORD10386,2026-02-12,CUST1112,Laptop Stand,Accessories,4,1161.02,4644.08,Debit Card,Cancelled,Bengaluru
+ORD10287,2026-05-07,CUST1153,Webcam,Electronics,1,1902.49,1902.49,Cash on Delivery,Processing,Kolkata
+ORD10377,2026-03-25,CUST1008,Backpack,Bags,4,2052.08,8208.32,Debit Card,Cancelled,Chennai
+ORD10098,2026-06-12,CUST1229,Mechanical Keyboard,Electronics,4,2844.45,11377.80,Cash on Delivery,Shipped,Delhi
+ORD10095,2026-06-10,CUST1063,Mechanical Keyboard,Electronics,5,2641.90,13209.50,UPI,Processing,Ahmedabad
+ORD10434,2026-03-28,CUST1141,Laptop Stand,Accessories,3,1426.96,4280.88,Net Banking,Shipped,Ahmedabad
+ORD10100,2026-08-07,CUST1063,Power Bank,Electronics,5,1394.85,6974.25,UPI,Processing,Chennai
+ORD10239,2026-02-25,CUST1214,Wireless Mouse,Electronics,1,598.14,598.14,Credit Card,Returned,Ahmedabad
+ORD10474,2026-08-18,CUST1217,Mechanical Keyboard,Electronics,1,2814.83,2814.83,Net Banking,Cancelled,Hyderabad
+ORD10340,2026-04-25,CUST1154,Mechanical Keyboard,Electronics,1,2569.43,2569.43,UPI,Shipped,Pune
+ORD10313,2026-06-15,CUST1016,Jeans,Fashion,3,1891.75,5675.25,UPI,Returned,Nagpur
+ORD10121,2026-05-20,CUST1058,Running Shoes,Footwear,2,2833.89,5667.78,Credit Card,Processing,Nashik
+ORD10153,2026-02-10,CUST1019,Desk Lamp,Home & Kitchen,3,1262.89,3788.67,Cash on Delivery,Processing,Ahmedabad
+ORD10079,2026-01-20,CUST1183,Running Shoes,Footwear,2,2702.97,5405.94,Debit Card,Shipped,Bengaluru
+ORD10364,2026-04-16,CUST1004,Wireless Mouse,Electronics,1,705.75,705.75,UPI,Returned,Bengaluru
+ORD10269,2026-04-12,CUST1184,Desk Lamp,Home & Kitchen,1,1042.80,1042.80,Cash on Delivery,Returned,Delhi
+ORD10226,2026-02-05,CUST1040,Webcam,Electronics,4,1995.82,7983.28,UPI,Processing,Mumbai
+ORD10075,2026-05-23,CUST1064,USB-C Hub,Electronics,5,1581.99,7909.95,,Cancelled,Nashik
+ORD10214,2026-07-23,CUST1071,Phone Case,Accessories,4,518.67,2074.68,Net Banking,Delivered,Hyderabad
+ORD10307,2026-04-12,CUST1210,Backpack,Bags,5,1734.07,8670.35,Debit Card,Shipped,Bengaluru
+ORD10460,2026-02-02,CUST1192,Jeans,Fashion,3,1799.28,5397.84,Debit Card,Delivered,Pune
+ORD10257,2026-07-22,CUST1243,Backpack,Bags,4,1677.33,6709.32,UPI,Delivered,Delhi
+ORD10446,2026-02-01,CUST1151,Desk Lamp,Home & Kitchen,1,1069.51,1069.51,Cash on Delivery,Processing,Delhi
+ORD10235,2026-08-15,CUST1090,Mechanical Keyboard,Electronics,2,2736.43,5472.86,UPI,Cancelled,Pune
+ORD10479,2026-03-22,CUST1105,Mechanical Keyboard,Electronics,2,2461.19,4922.38,UPI,Returned,Hyderabad
+ORD10161,2026-08-22,CUST1070,Desk Lamp,Home & Kitchen,3,1210.10,3630.30,Credit Card,Processing,Chennai
+ORD10221,2026-06-11,CUST1166,Running Shoes,Footwear,5,2509.69,12548.45,Debit Card,Delivered,Hyderabad
+ORD10413,2026-06-01,CUST1022,Smart Watch,Electronics,3,3938.49,11815.47,Credit Card,Processing,Mumbai
+ORD10328,2026-08-01,CUST1141,Mechanical Keyboard,Electronics,5,2208.27,11041.35,Net Banking,Shipped,Ahmedabad
+ORD10453,2026-02-25,CUST1011,Backpack,Bags,1,1536.59,1536.59,UPI,Cancelled,Kolkata
+ORD10230,2026-03-03,CUST1080,Jeans,Fashion,4,1839.48,7357.92,Cash on Delivery,Shipped,Hyderabad
+ORD10343,2026-08-13,CUST1037,Jeans,Fashion,3,1841.22,5523.66,Net Banking,Shipped,Delhi
+ORD10403,2026-07-20,CUST1053,Webcam,Electronics,3,2095.47,6286.41,Net Banking,Cancelled,Hyderabad
+ORD10209,2026-02-26,CUST1086,Smart Watch,Electronics,3,3757.02,11271.06,Credit Card,Delivered,Kolkata
+ORD10147,2026-06-25,CUST1236,Backpack,Bags,1,1655.86,1655.86,Debit Card,Shipped,Mumbai
+ORD10101,2026-06-21,CUST1098,Bluetooth Headphones,Electronics,4,2040.89,8163.56,Debit Card,Delivered,Chennai
+ORD10251,2026-01-13,CUST1222,Laptop Stand,Accessories,3,1440.13,4320.39,Debit Card,Processing,Mumbai
+ORD10025,2026-02-24,CUST1238,Water Bottle,Home & Kitchen,5,682.88,3414.40,Net Banking,Shipped,Bengaluru
+ORD10061,2026-08-04,CUST1138,Running Shoes,Footwear,5,2811.75,14058.75,Debit Card,Delivered,Mumbai
+ORD10408,2026-04-26,CUST1152,T-Shirt,Fashion,5,1002.32,5011.60,Cash on Delivery,Cancelled,Pune
+ORD10362,2026-03-01,CUST1018,Power Bank,Electronics,2,1653.04,3306.08,Credit Card,Delivered,Nagpur
+ORD10271,2026-08-13,CUST1213,Phone Case,Accessories,5,475.72,2378.60,Net Banking,Returned,Nashik
+ORD10372,2026-03-13,CUST1231,Wireless Mouse,Electronics,1,737.67,737.67,Net Banking,Returned,Pune
+ORD10402,2026-03-17,CUST1107,Webcam,Electronics,1,2187.63,2187.63,UPI,Delivered,Nashik
+ORD10142,2026-07-10,CUST1122,Bluetooth Headphones,Electronics,4,1725.33,6901.32,UPI,Cancelled,Nashik
+ORD10179,2026-07-10,CUST1017,T-Shirt,Fashion,4,906.04,3624.16,Cash on Delivery,Cancelled,Hyderabad
+ORD10105,2026-02-26,CUST1104,Phone Case,Accessories,1,438.08,438.08,Credit Card,Processing,Ahmedabad
+ORD10467,2026-08-19,CUST1014,Webcam,Electronics,1,2200.35,2200.35,Credit Card,Shipped,Kolkata
+ORD10465,2026-08-08,CUST1010,Power Bank,Electronics,2,1354.63,2709.26,Net Banking,Cancelled,Nagpur
+ORD10085,2026-01-08,CUST1100,Bluetooth Headphones,Electronics,3,1960.52,5881.56,Debit Card,Cancelled,Nashik
+ORD10178,2026-01-05,CUST1045,Jeans,Fashion,2,2052.29,4104.58,Debit Card,Delivered,Nashik
+ORD10370,2026-03-26,CUST1145,Phone Case,Accessories,4,520.69,2082.76,UPI,Returned,Pune
+ORD10041,2026-06-02,CUST1011,Desk Lamp,Home & Kitchen,5,1107.71,5538.55,Net Banking,Delivered,Delhi
+ORD10112,2026-05-01,CUST1123,Smart Watch,Electronics,1,3576.75,3576.75,Cash on Delivery,Processing,Nashik
+ORD10380,2026-06-12,CUST1040,USB-C Hub,Electronics,4,1700.54,6802.16,Cash on Delivery,Processing,Hyderabad
+ORD10127,2026-02-16,CUST1150,Running Shoes,Footwear,4,3260.86,13043.44,Cash on Delivery,Cancelled,Mumbai
+ORD10199,2026-04-24,CUST1107,Phone Case,Accessories,4,496.85,1987.40,Debit Card,Shipped,Kolkata
+ORD10008,2026-02-28,CUST1198,Bluetooth Headphones,Electronics,1,1726.63,1726.63,Debit Card,Delivered,Nagpur
+ORD10338,2026-03-30,CUST1040,Power Bank,Electronics,2,1385.46,2770.92,Debit Card,Shipped,Mumbai
+ORD10354,2026-05-17,CUST1167,Jeans,Fashion,3,1927.43,5782.29,Debit Card,Processing,Bengaluru
+ORD10284,2026-08-19,CUST1041,Power Bank,Electronics,2,1707.07,3414.14,Debit Card,Returned,Hyderabad
+ORD10458,2026-06-20,CUST1190,Backpack,Bags,5,1558.85,7794.25,Credit Card,Delivered,Pune
+ORD10024,2026-05-02,CUST1243,Jeans,Fashion,2,1776.15,3552.30,Net Banking,Shipped,Bengaluru
+ORD10411,2026-06-13,CUST1081,Running Shoes,Footwear,4,2923.10,11692.40,Net Banking,Cancelled,Ahmedabad
+ORD10327,2026-01-21,CUST1135,Running Shoes,Footwear,5,3223.52,16117.60,Cash on Delivery,Returned,Hyderabad
+ORD10248,2026-07-27,CUST1035,T-Shirt,Fashion,4,934.53,3738.12,UPI,Cancelled,Pune
+ORD10319,2026-05-26,CUST1173,T-Shirt,Fashion,3,977.42,2932.26,Credit Card,Shipped,Ahmedabad
+ORD10238,2026-02-05,CUST1195,Laptop Stand,Accessories,4,1375.41,5501.64,Cash on Delivery,Cancelled,Ahmedabad
+ORD10088,2026-04-27,CUST1084,Laptop Stand,Accessories,4,1231.72,4926.88,Debit Card,Cancelled,Bengaluru
+ORD10225,2026-01-05,CUST1093,Mechanical Keyboard,Electronics,4,2505.36,10021.44,Debit Card,Shipped,Nagpur
+ORD10027,2026-05-22,CUST1059,Mechanical Keyboard,Electronics,3,2139.92,6419.76,Net Banking,Shipped,Pune
+ORD10314,2026-02-14,CUST1107,Water Bottle,Home & Kitchen,1,785.65,785.65,Credit Card,Delivered,Delhi
+ORD10358,2026-05-26,CUST1214,Bluetooth Headphones,Electronics,3,1837.09,5511.27,Credit Card,Cancelled,Kolkata
+ORD10262,2026-02-17,CUST1128,Bluetooth Headphones,Electronics,1,1714.69,1714.69,Net Banking,Cancelled,Kolkata
+ORD10308,2026-01-21,CUST1089,Wireless Mouse,Electronics,3,794.48,2383.44,Cash on Delivery,Processing,Chennai
+ORD10009,2026-04-27,CUST1163,Smart Watch,Electronics,1,3373.17,3373.17,Debit Card,Shipped,Hyderabad
+ORD10217,2026-07-27,CUST1147,Jeans,Fashion,1,1968.86,1968.86,Credit Card,Processing,Ahmedabad
+ORD10205,2026-01-20,CUST1221,Power Bank,Electronics,1,1480.90,1480.90,Debit Card,Returned,Delhi
+ORD10019,2026-04-22,CUST1041,Jeans,Fashion,3,1766.05,5298.15,Cash on Delivery,Delivered,Bengaluru
+ORD10116,2026-08-21,CUST1114,Bluetooth Headphones,Electronics,5,1927.26,9636.30,Debit Card,Returned,Delhi
+ORD10042,2026-03-22,CUST1240,Running Shoes,Footwear,5,2955.73,14778.65,Debit Card,Shipped,Hyderabad
+ORD10058,2026-01-10,CUST1220,Jeans,Fashion,1,1928.56,1928.56,Cash on Delivery,Shipped,Nagpur
+ORD10176,2026-08-08,CUST1038,Jeans,Fashion,5,1700.85,8504.25,Credit Card,Returned,Bengaluru
+ORD10195,2026-05-25,CUST1169,Wireless Mouse,Electronics,2,776.56,1553.12,Cash on Delivery,Delivered,Nashik
+ORD10167,2026-03-19,CUST1167,Running Shoes,Footwear,4,3255.04,13020.16,Cash on Delivery,Delivered,Nashik
+ORD10148,2026-06-30,CUST1224,Power Bank,Electronics,1,1616.09,1616.09,UPI,Cancelled,Nashik
+ORD10273,2026-03-24,CUST1240,USB-C Hub,Electronics,3,1438.14,4314.42,Credit Card,Processing,Kolkata
+ORD10123,2026-06-29,CUST1104,Mechanical Keyboard,Electronics,4,2640.45,10561.80,Debit Card,Returned,Kolkata
+ORD10213,2026-06-10,CUST1081,Running Shoes,Footwear,5,2745.24,13726.20,Credit Card,Cancelled,Mumbai
+ORD10427,2026-08-08,CUST1132,Laptop Stand,Accessories,5,1208.33,6041.65,UPI,Shipped,Delhi
+ORD10241,2026-06-09,CUST1118,Bluetooth Headphones,Electronics,4,2082.33,8329.32,UPI,Delivered,Chennai
+ORD10140,2026-05-04,CUST1089,Smart Watch,Electronics,2,3442.89,6885.78,Debit Card,Returned,Kolkata
+ORD10286,2026-05-10,CUST1118,Wireless Mouse,Electronics,1,792.37,792.37,Credit Card,Shipped,Ahmedabad
+ORD10333,2026-01-17,CUST1139,Wireless Mouse,Electronics,4,666.40,2665.60,UPI,Delivered,Chennai
+ORD10356,2026-05-25,CUST1222,Webcam,Electronics,3,2142.22,6426.66,Credit Card,Shipped,Pune
+ORD10106,2026-03-30,CUST1109,Webcam,Electronics,4,2234.28,8937.12,Net Banking,Processing,Hyderabad
+ORD10227,2026-08-15,CUST1135,Water Bottle,Home & Kitchen,5,769.27,3846.35,UPI,Processing,Ahmedabad
+ORD10043,2026-06-21,CUST1166,Bluetooth Headphones,Electronics,3,1936.50,5809.50,Debit Card,Cancelled,Hyderabad
+ORD10260,2026-06-23,CUST1116,Backpack,Bags,1,1855.72,1855.72,Debit Card,Processing,Chennai
+ORD10188,2026-01-25,CUST1191,Mechanical Keyboard,Electronics,1,2194.04,2194.04,Debit Card,Shipped,Kolkata
+ORD10322,2026-03-26,CUST1078,Bluetooth Headphones,Electronics,4,2151.18,8604.72,Net Banking,Returned,Pune
+ORD10099,2026-03-11,CUST1158,USB-C Hub,Electronics,5,1822.29,9111.45,Net Banking,Cancelled,Chennai
+ORD10280,2026-04-17,CUST1124,Mechanical Keyboard,Electronics,1,2242.66,2242.66,Cash on Delivery,Shipped,Hyderabad
+ORD10185,2026-06-16,CUST1225,Jeans,Fashion,1,2210.57,2210.57,Net Banking,Shipped,Delhi
+ORD10028,2026-08-20,CUST1009,Mechanical Keyboard,Electronics,1,2295.79,2295.79,Debit Card,Delivered,Kolkata
+ORD10202,2026-07-15,CUST1066,Laptop Stand,Accessories,2,1403.19,2806.38,Debit Card,Processing,Mumbai
+ORD10132,2026-07-14,CUST1014,Jeans,Fashion,4,2074.21,8296.84,Credit Card,Processing,Kolkata
+ORD10180,2026-05-09,CUST1057,Water Bottle,Home & Kitchen,5,617.02,3085.10,Net Banking,Delivered,Kolkata
+ORD10035,2026-02-24,CUST1222,USB-C Hub,Electronics,4,1592.11,6368.44,Cash on Delivery,Delivered,Nashik
+ORD10387,2026-03-05,CUST1185,Phone Case,Accessories,1,478.21,478.21,Cash on Delivery,Returned,Ahmedabad
+ORD10108,2026-06-26,CUST1048,Mechanical Keyboard,Electronics,5,2837.02,14185.10,Credit Card,Shipped,Chennai
+ORD10136,2026-03-11,CUST1107,Phone Case,Accessories,3,500.33,1500.99,Cash on Delivery,Cancelled,Nagpur
+ORD10006,2026-06-04,CUST1068,Mechanical Keyboard,Electronics,3,2759.52,8278.56,UPI,Cancelled,Kolkata
+ORD10409,2026-07-12,CUST1181,T-Shirt,Fashion,2,819.65,1639.30,UPI,Returned,Mumbai
+ORD10172,2026-06-15,CUST1092,Mechanical Keyboard,Electronics,3,2532.34,7597.02,UPI,Cancelled,Bengaluru
+ORD10046,2026-05-20,CUST1181,Laptop Stand,Accessories,2,1274.91,2549.82,Debit Card,Returned,Kolkata
+ORD10086,2026-06-09,CUST1137,Smart Watch,Electronics,4,3939.39,15757.56,UPI,Cancelled,Ahmedabad
+ORD10369,2026-05-02,CUST1015,Power Bank,Electronics,4,1443.76,5775.04,UPI,Shipped,Mumbai
+ORD10344,2026-06-01,CUST1226,Laptop Stand,Accessories,3,1127.91,3383.73,Credit Card,Cancelled,Kolkata
+ORD10040,2026-01-18,CUST1173,Mechanical Keyboard,Electronics,2,2175.52,4351.04,Credit Card,Cancelled,Mumbai
+ORD10368,2026-02-27,CUST1077,Backpack,Bags,2,2063.58,4127.16,UPI,Delivered,Mumbai
+ORD10477,2026-07-08,CUST1084,Desk Lamp,Home & Kitchen,4,1271.20,5084.80,Debit Card,Cancelled,Bengaluru
+ORD10054,2026-02-23,CUST1175,Webcam,Electronics,1,2462.17,2462.17,Credit Card,Delivered,Hyderabad
+ORD10355,2026-04-30,CUST1026,Webcam,Electronics,5,2451.54,12257.70,Cash on Delivery,Processing,Nagpur
+ORD10094,2026-08-21,CUST1246,Wireless Mouse,Electronics,3,714.89,2144.67,Cash on Delivery,Cancelled,Nagpur
+ORD10017,2026-04-09,CUST1098,Jeans,Fashion,4,2056.82,8227.28,Net Banking,Cancelled,Kolkata
+ORD10201,2026-04-12,CUST1154,Running Shoes,Footwear,3,2503.65,7510.95,UPI,Delivered,Nagpur
+ORD10405,2026-03-29,CUST1166,Wireless Mouse,Electronics,1,598.89,598.89,UPI,Shipped,Nagpur
+ORD10312,2026-02-10,CUST1105,Wireless Mouse,Electronics,5,799.22,3996.10,Cash on Delivery,Cancelled,Nagpur
+ORD10435,2026-08-17,CUST1175,Smart Watch,Electronics,4,3801.63,15206.52,UPI,Delivered,Mumbai
+ORD10151,2026-04-08,CUST1159,USB-C Hub,Electronics,1,1651.52,1651.52,Credit Card,Cancelled,Ahmedabad
+ORD10158,2026-02-18,CUST1159,Jeans,Fashion,3,1830.49,5491.47,Debit Card,Shipped,Mumbai
+ORD10194,2026-03-11,CUST1180,Backpack,Bags,3,1544.78,4634.34,Debit Card,Processing,Hyderabad
+ORD10376,2026-08-03,CUST1020,Wireless Mouse,Electronics,1,685.81,685.81,Debit Card,Returned,Ahmedabad
+ORD10115,2026-07-15,CUST1107,Mechanical Keyboard,Electronics,2,2212.95,4425.90,Net Banking,Returned,Ahmedabad
+ORD10045,2026-08-27,CUST1090,Bluetooth Headphones,Electronics,5,1858.19,9290.95,UPI,Shipped,Hyderabad
+ORD10288,2026-08-14,CUST1068,Wireless Mouse,Electronics,1,684.52,684.52,Debit Card,Cancelled,Hyderabad
+ORD10329,2026-08-07,CUST1134,Water Bottle,Home & Kitchen,2,628.65,1257.30,Cash on Delivery,Delivered,Nagpur
+ORD10342,2026-07-07,CUST1148,Laptop Stand,Accessories,2,1422.06,2844.12,Debit Card,Returned,
+ORD10250,2026-05-20,CUST1122,Water Bottle,Home & Kitchen,4,801.57,3206.28,Debit Card,Delivered,Nagpur
+ORD10224,2026-04-07,CUST1165,Backpack,Bags,1,1696.23,1696.23,Debit Card,Shipped,Kolkata
+ORD10081,2026-01-17,CUST1107,T-Shirt,Fashion,2,954.67,1909.34,Cash on Delivery,Processing,Kolkata
+ORD10070,2026-07-23,CUST1189,Water Bottle,Home & Kitchen,4,760.60,3042.40,Credit Card,Delivered,Bengaluru
+ORD10311,2026-04-16,CUST1085,Running Shoes,Footwear,2,2509.80,5019.60,Cash on Delivery,Delivered,Nashik
+ORD10155,2026-04-08,CUST1147,Smart Watch,Electronics,4,3086.10,12344.40,Debit Card,Returned,Bengaluru
+ORD10173,2026-07-30,CUST1117,Bluetooth Headphones,Electronics,1,2268.27,2268.27,UPI,Shipped,Ahmedabad
+ORD10423,2026-01-09,CUST1116,T-Shirt,Fashion,2,844.44,1688.88,Debit Card,Processing,Mumbai
+ORD10192,2026-07-15,CUST1072,Webcam,Electronics,5,2111.63,10558.15,Net Banking,Shipped,Delhi
+ORD10038,2026-01-16,CUST1192,Wireless Mouse,Electronics,5,748.43,3742.15,Debit Card,Delivered,Pune
+ORD10187,2026-03-07,CUST1096,Webcam,Electronics,4,2075.32,8301.28,Credit Card,Cancelled,Mumbai
+ORD10320,2026-05-12,CUST1084,Smart Watch,Electronics,4,3842.24,15368.96,UPI,Cancelled,Mumbai
+ORD10057,2026-04-16,CUST1206,T-Shirt,Fashion,3,975.16,2925.48,Credit Card,Processing,Nashik
+ORD10335,2026-06-24,CUST1247,Phone Case,Accessories,4,480.38,1921.52,Net Banking,Shipped,Hyderabad
+ORD10445,2026-06-07,CUST1176,Running Shoes,Footwear,2,3264.18,6528.36,Cash on Delivery,Shipped,Mumbai
+ORD10441,2026-06-28,CUST1088,Water Bottle,Home & Kitchen,4,596.10,2384.40,UPI,Cancelled,Nashik
+ORD10031,2026-04-16,CUST1120,Running Shoes,Footwear,4,2772.28,11089.12,UPI,Delivered,Pune
+ORD10166,2026-05-24,CUST1084,Wireless Mouse,Electronics,5,779.57,3897.85,Net Banking,Shipped,Mumbai
+ORD10345,2026-06-14,CUST1172,Phone Case,Accessories,1,569.70,569.70,Cash on Delivery,Returned,Hyderabad
+ORD10175,2026-02-25,CUST1209,Smart Watch,Electronics,5,3191.60,15958.00,Credit Card,Processing,Nashik
+ORD10455,2026-01-22,CUST1080,Water Bottle,Home & Kitchen,5,626.17,3130.85,UPI,Returned,Nagpur
+ORD10104,2026-05-06,CUST1143,Mechanical Keyboard,Electronics,2,2663.99,5327.98,Credit Card,Cancelled,Chennai
+ORD10406,2026-03-26,CUST1144,Water Bottle,Home & Kitchen,2,709.89,1419.78,Cash on Delivery,Cancelled,Nagpur
+ORD10431,2026-08-13,CUST1095,Water Bottle,Home & Kitchen,3,739.83,2219.49,Cash on Delivery,Cancelled,Hyderabad
+ORD10001,2026-03-12,CUST1063,Running Shoes,Footwear,1,2485.90,2485.90,Credit Card,Shipped,Mumbai
+ORD10245,2026-01-12,CUST1163,Wireless Mouse,Electronics,4,777.29,3109.16,Cash on Delivery,Processing,Bengaluru
+ORD10388,2026-03-19,CUST1002,Bluetooth Headphones,Electronics,4,1763.30,7053.20,Cash on Delivery,Processing,Ahmedabad
+ORD10011,2026-04-08,CUST1070,Water Bottle,Home & Kitchen,2,628.42,1256.84,Net Banking,Shipped,Hyderabad
+ORD10443,2026-07-18,CUST1209,Webcam,Electronics,3,1959.61,5878.83,Credit Card,Shipped,Mumbai
+ORD10359,2026-07-30,CUST1126,Running Shoes,Footwear,3,2687.95,8063.85,Cash on Delivery,Cancelled,Nashik
+ORD10351,2026-05-24,CUST1056,Jeans,Fashion,5,2133.52,10667.60,Cash on Delivery,Shipped,Hyderabad
+ORD10020,2026-01-28,CUST1223,Water Bottle,Home & Kitchen,2,700.61,1401.22,Debit Card,Returned,Ahmedabad
+ORD10252,2026-04-13,CUST1191,Jeans,Fashion,3,1961.19,5883.57,Cash on Delivery,Cancelled,Hyderabad
+ORD10476,2026-02-03,CUST1061,Backpack,Bags,1,1763.91,1763.91,Debit Card,Processing,Hyderabad
+ORD10159,2026-04-23,CUST1009,Desk Lamp,Home & Kitchen,1,1130.27,1130.27,Net Banking,Processing,Nashik
+ORD10278,2026-06-13,CUST1008,Jeans,Fashion,5,1948.98,9744.90,Cash on Delivery,Returned,Bengaluru
+ORD10253,2026-04-05,CUST1237,USB-C Hub,Electronics,4,1691.14,6764.56,Net Banking,Processing,Mumbai
+ORD10097,2026-06-15,CUST1088,Power Bank,Electronics,3,1305.16,3915.48,UPI,Cancelled,
+ORD10336,2026-04-11,CUST1136,Mechanical Keyboard,Electronics,2,2868.49,5736.98,Credit Card,Shipped,Pune
+ORD10073,2026-05-28,CUST1050,Phone Case,Accessories,4,556.80,2227.20,Cash on Delivery,Cancelled,Delhi
+ORD10289,2026-05-24,CUST1050,Wireless Mouse,Electronics,4,604.88,2419.52,Debit Card,Returned,Bengaluru
+ORD10291,2026-04-11,CUST1096,Mechanical Keyboard,Electronics,2,2855.17,5710.34,Debit Card,Returned,Hyderabad
+ORD10181,2026-01-08,CUST1016,Laptop Stand,Accessories,4,1354.86,5419.44,Cash on Delivery,Cancelled,Delhi
+ORD10015,2026-05-30,CUST1103,T-Shirt,Fashion,5,879.70,4398.50,Debit Card,Shipped,Nashik
+ORD10303,2026-03-29,CUST1140,USB-C Hub,Electronics,4,1796.70,7186.80,Debit Card,Processing,Ahmedabad
+ORD10163,2026-07-05,CUST1173,USB-C Hub,Electronics,2,1771.76,3543.52,Cash on Delivery,Returned,Hyderabad
+ORD10304,2026-03-13,CUST1143,Phone Case,Accessories,2,567.46,1134.92,Debit Card,Shipped,Bengaluru
+ORD10091,2026-03-03,CUST1033,Bluetooth Headphones,Electronics,1,2071.76,2071.76,Cash on Delivery,Delivered,Ahmedabad
+ORD10432,2026-08-05,CUST1188,Backpack,Bags,1,1998.10,1998.10,UPI,Cancelled,Hyderabad
+ORD10439,2026-07-05,CUST1180,Wireless Mouse,Electronics,4,725.34,2901.36,Credit Card,Cancelled,Mumbai
+ORD10373,2026-02-23,CUST1151,USB-C Hub,Electronics,3,1366.66,4099.98,Credit Card,Cancelled,Mumbai
+ORD10295,2026-05-10,CUST1213,Backpack,Bags,3,1849.58,5548.74,Net Banking,Returned,Chennai
+ORD10367,2026-04-12,CUST1021,Smart Watch,Electronics,3,3254.76,9764.28,Debit Card,Cancelled,Chennai
+ORD10029,2026-02-24,CUST1139,Bluetooth Headphones,Electronics,3,2100.34,6301.02,Credit Card,Returned,Ahmedabad
+ORD10274,2026-03-06,CUST1051,Desk Lamp,Home & Kitchen,3,1323.43,3970.29,Net Banking,Processing,Nashik
+ORD10137,2026-02-18,CUST1236,Phone Case,Accessories,5,445.80,2229.00,Net Banking,Returned,Nashik
+ORD10124,2026-01-11,CUST1228,Phone Case,Accessories,4,436.19,1744.76,Cash on Delivery,Processing,Ahmedabad
+ORD10337,2026-04-29,CUST1173,Jeans,Fashion,1,2285.95,2285.95,Net Banking,Cancelled,Kolkata
+ORD10052,2026-08-15,CUST1177,Water Bottle,Home & Kitchen,1,617.61,617.61,Credit Card,Returned,Pune
+ORD10082,2026-08-02,CUST1108,Phone Case,Accessories,4,433.47,1733.88,Cash on Delivery,Returned,Pune
+ORD10120,2026-04-27,CUST1019,T-Shirt,Fashion,3,953.75,2861.25,Credit Card,Processing,Ahmedabad
+ORD10300,2026-04-23,CUST1081,T-Shirt,Fashion,1,815.60,815.60,Cash on Delivery,Shipped,Delhi
+ORD10381,2026-03-20,CUST1114,Mechanical Keyboard,Electronics,1,2128.04,2128.04,Debit Card,Processing,Mumbai
+ORD10272,2026-08-22,CUST1223,Jeans,Fashion,2,1958.59,3917.18,UPI,Delivered,Kolkata
+ORD10242,2026-05-12,CUST1148,Backpack,Bags,5,1538.02,7690.10,Credit Card,Shipped,Bengaluru
+ORD10030,2026-07-26,CUST1105,Phone Case,Accessories,2,541.61,1083.22,Credit Card,Delivered,Mumbai
+ORD10394,2026-01-18,CUST1210,Phone Case,Accessories,3,548.59,1645.77,Cash on Delivery,Cancelled,Nashik
+ORD10419,2026-01-22,CUST1145,Power Bank,Electronics,4,1493.92,5975.68,UPI,Shipped,Bengaluru
+ORD10113,2026-05-03,CUST1030,Wireless Mouse,Electronics,3,791.49,2374.47,UPI,Cancelled,Chennai
+ORD10164,2026-05-18,CUST1032,Mechanical Keyboard,Electronics,4,2134.58,8538.32,Cash on Delivery,Processing,Bengaluru
+ORD10014,2026-02-05,CUST1064,Power Bank,Electronics,4,1338.40,5353.60,Net Banking,Returned,Bengaluru
+ORD10093,2026-02-11,CUST1247,T-Shirt,Fashion,1,973.92,973.92,Debit Card,Delivered,Ahmedabad
+ORD10139,2026-03-18,CUST1215,Laptop Stand,Accessories,1,1214.37,1214.37,Net Banking,Returned,Chennai
+ORD10165,2026-08-29,CUST1096,Backpack,Bags,4,1973.01,7892.04,UPI,Shipped,Chennai
+ORD10290,2026-07-15,CUST1141,Mechanical Keyboard,Electronics,4,2502.19,10008.76,Debit Card,Returned,Ahmedabad
+ORD10177,2026-08-10,CUST1007,Jeans,Fashion,2,1765.07,3530.14,Credit Card,Delivered,Hyderabad
+ORD10249,2026-02-21,CUST1227,Laptop Stand,Accessories,2,1121.22,2242.44,UPI,Processing,Bengaluru
+ORD10385,2026-04-08,CUST1044,Backpack,Bags,5,1620.67,8103.35,Credit Card,Processing,Bengaluru
+ORD10397,2026-07-27,CUST1138,Wireless Mouse,Electronics,3,741.28,2223.84,Net Banking,Delivered,Mumbai
+ORD10184,2026-04-27,CUST1130,Power Bank,Electronics,5,1512.74,7563.70,Net Banking,Cancelled,Mumbai
+ORD10366,2026-03-03,CUST1050,Desk Lamp,Home & Kitchen,1,1207.77,1207.77,Net Banking,Returned,Bengaluru
+ORD10418,2026-05-10,CUST1168,Bluetooth Headphones,Electronics,4,2277.16,9108.64,Cash on Delivery,Cancelled,Chennai
+ORD10010,2026-06-29,CUST1240,Webcam,Electronics,2,2311.26,4622.52,UPI,Returned,Nashik
+ORD10279,2026-07-26,CUST1207,Running Shoes,Footwear,3,2884.17,8652.51,Cash on Delivery,Processing,Chennai
+ORD10449,2026-07-11,CUST1101,Water Bottle,Home & Kitchen,5,701.00,3505.00,Debit Card,Delivered,Nagpur
+ORD10468,2026-04-30,CUST1222,Wireless Mouse,Electronics,4,608.60,2434.40,Debit Card,Processing,Hyderabad
+ORD10270,2026-01-19,CUST1033,Jeans,Fashion,4,2192.91,8771.64,Debit Card,Delivered,Chennai
+ORD10330,2026-08-19,CUST1131,T-Shirt,Fashion,5,895.99,4479.95,Cash on Delivery,Delivered,Chennai
+ORD10103,2026-03-12,CUST1143,Desk Lamp,Home & Kitchen,5,1271.37,6356.85,UPI,Returned,Nagpur
+ORD10215,2026-04-26,CUST1010,Water Bottle,Home & Kitchen,1,659.24,659.24,UPI,Processing,Bengaluru
+ORD10071,2026-07-29,CUST1244,Water Bottle,Home & Kitchen,5,664.44,3322.20,Credit Card,Processing,Nagpur
+ORD10197,2026-07-04,CUST1084,Webcam,Electronics,2,2113.27,4226.54,Net Banking,Returned,Mumbai
+ORD10410,2026-03-25,CUST1051,Jeans,Fashion,5,1811.27,9056.35,Cash on Delivery,Delivered,Bengaluru
+ORD10459,2026-02-11,CUST1128,T-Shirt,Fashion,2,953.34,1906.68,Debit Card,Returned,Kolkata
+ORD10246,2026-01-18,CUST1089,T-Shirt,Fashion,1,860.46,860.46,Credit Card,Delivered,Ahmedabad
+ORD10469,2026-04-05,CUST1052,Mechanical Keyboard,Electronics,5,2466.57,12332.85,Debit Card,Returned,Bengaluru
+ORD10211,2026-02-20,CUST1045,Bluetooth Headphones,Electronics,1,1786.97,1786.97,Net Banking,Shipped,Mumbai
+ORD10256,2026-04-24,CUST1090,T-Shirt,Fashion,4,809.09,3236.36,Cash on Delivery,Delivered,Hyderabad
+ORD10152,2026-03-07,CUST1118,USB-C Hub,Electronics,2,1580.36,3160.72,Debit Card,Delivered,Chennai
+ORD10332,2026-07-29,CUST1001,T-Shirt,Fashion,1,870.94,870.94,Credit Card,Returned,Mumbai
+ORD10126,2026-07-15,CUST1194,Jeans,Fashion,3,2044.73,6134.19,Credit Card,Cancelled,Kolkata
+ORD10316,2026-08-26,CUST1086,Laptop Stand,Accessories,5,1339.05,6695.25,Debit Card,Cancelled,Kolkata
+ORD10318,2026-07-07,CUST1118,Bluetooth Headphones,Electronics,1,1897.46,1897.46,Debit Card,Shipped,Pune
+ORD10315,2026-07-11,CUST1247,Jeans,Fashion,4,1810.88,7243.52,Debit Card,Delivered,Pune
+ORD10077,2026-08-21,CUST1141,Smart Watch,Electronics,5,3422.10,17110.50,Cash on Delivery,Shipped,Chennai
+ORD10229,2026-07-04,CUST1061,Wireless Mouse,Electronics,4,670.54,2682.16,Cash on Delivery,Returned,Bengaluru
+ORD10144,2026-02-06,CUST1105,Water Bottle,Home & Kitchen,4,597.37,2389.48,Credit Card,Delivered,Chennai
+ORD10141,2026-08-11,CUST1049,Power Bank,Electronics,4,1693.65,6774.60,Credit Card,Returned,Delhi
+ORD10096,2026-05-25,CUST1201,Jeans,Fashion,1,2176.65,2176.65,UPI,Processing,Kolkata
+ORD10110,2026-03-19,CUST1004,Laptop Stand,Accessories,2,1244.79,2489.58,Net Banking,Shipped,Bengaluru
+ORD10182,2026-08-21,CUST1114,Running Shoes,Footwear,1,2890.54,2890.54,UPI,Delivered,Hyderabad
+ORD10089,2026-01-21,CUST1121,Jeans,Fashion,4,1850.44,7401.76,UPI,Returned,Pune
+ORD10219,2026-07-01,CUST1113,Water Bottle,Home & Kitchen,2,602.36,1204.72,Cash on Delivery,Returned,Kolkata
+ORD10350,2026-06-04,CUST1155,Wireless Mouse,Electronics,3,673.24,2019.72,UPI,Delivered,Nagpur
+ORD10196,2026-05-16,CUST1056,T-Shirt,Fashion,1,788.90,788.90,Cash on Delivery,Cancelled,Chennai
+ORD10475,2026-05-10,CUST1035,Phone Case,Accessories,1,511.09,511.09,Cash on Delivery,Delivered,Ahmedabad
+ORD10255,2026-06-19,CUST1076,Webcam,Electronics,1,1921.97,1921.97,Debit Card,Cancelled,Ahmedabad
+ORD10371,2026-06-27,CUST1228,Bluetooth Headphones,Electronics,2,2239.64,4479.28,Net Banking,Cancelled,Bengaluru
+ORD10421,2026-01-30,CUST1069,Water Bottle,Home & Kitchen,5,617.89,3089.45,Net Banking,Processing,Kolkata
+ORD10222,2026-03-14,CUST1065,Mechanical Keyboard,Electronics,5,2632.73,13163.65,Net Banking,Shipped,Hyderabad
+ORD10294,2026-08-27,CUST1157,Backpack,Bags,5,1604.59,8022.95,Debit Card,Shipped,Delhi
+ORD10087,2026-04-20,CUST1035,Backpack,Bags,1,1574.46,1574.46,Cash on Delivery,Shipped,Pune
+ORD10466,2026-07-04,CUST1082,Webcam,Electronics,2,2143.75,4287.50,Debit Card,Delivered,Ahmedabad
+ORD10022,2026-08-26,CUST1093,Webcam,Electronics,4,1882.00,7528.00,Debit Card,Shipped,Pune
+ORD10461,2026-01-17,CUST1068,Webcam,Electronics,4,2048.58,8194.32,Net Banking,Delivered,Chennai
+ORD10170,2026-06-17,CUST1026,T-Shirt,Fashion,2,1002.95,2005.90,Cash on Delivery,Returned,Delhi
+ORD10436,2026-08-26,CUST1220,Running Shoes,Footwear,4,2478.31,9913.24,Credit Card,Cancelled,Chennai
+ORD10425,2026-02-05,CUST1201,Running Shoes,Footwear,4,2608.50,10434.00,Credit Card,Shipped,Pune
+ORD10066,2026-06-20,CUST1105,T-Shirt,Fashion,3,900.92,2702.76,Debit Card,Cancelled,Bengaluru
+ORD10415,2026-04-09,CUST1109,Power Bank,Electronics,5,1336.15,6680.75,Credit Card,Cancelled,Kolkata
+ORD10228,2026-02-11,CUST1047,USB-C Hub,Electronics,5,1539.86,7699.30,Net Banking,Shipped,Chennai
+ORD10448,2026-08-29,CUST1177,Backpack,Bags,5,1682.92,8414.60,UPI,Processing,Nagpur
+ORD10454,2026-04-19,CUST1180,Laptop Stand,Accessories,5,1403.09,7015.45,Cash on Delivery,Delivered,Kolkata
+ORD10034,2026-06-16,CUST1139,Jeans,Fashion,5,1757.87,8789.35,UPI,Delivered,Nagpur
+ORD10012,2026-01-09,CUST1207,Smart Watch,Electronics,1,3214.58,3214.58,Debit Card,Cancelled,Bengaluru
+ORD10039,2026-08-07,CUST1136,Backpack,Bags,4,1800.54,7202.16,Credit Card,Delivered,Kolkata
+ORD10417,2026-08-10,CUST1092,Smart Watch,Electronics,4,3624.34,14497.36,UPI,Cancelled,Nashik
+ORD10133,2026-06-28,CUST1125,USB-C Hub,Electronics,3,1569.31,4707.93,UPI,Delivered,Ahmedabad
+ORD10301,2026-07-18,CUST1157,T-Shirt,Fashion,2,874.83,1749.66,Cash on Delivery,Delivered,Nashik
+ORD10299,2026-04-08,CUST1038,Water Bottle,Home & Kitchen,5,756.58,3782.90,Credit Card,Delivered,Ahmedabad
+ORD10044,2026-06-09,CUST1145,Desk Lamp,Home & Kitchen,1,1022.50,1022.50,UPI,Delivered,Kolkata
+ORD10331,2026-05-25,CUST1015,USB-C Hub,Electronics,5,1558.43,7792.15,Net Banking,Cancelled,Bengaluru
+ORD10323,2026-01-16,CUST1171,Laptop Stand,Accessories,3,1374.12,4122.36,UPI,Cancelled,Bengaluru
+ORD10191,2026-02-24,CUST1040,Webcam,Electronics,1,2250.40,2250.40,Cash on Delivery,Shipped,Mumbai
+ORD10206,2026-04-17,CUST1075,Backpack,Bags,4,1912.07,7648.28,UPI,Cancelled,Pune
+ORD10422,2026-04-23,CUST1140,Smart Watch,Electronics,1,3771.93,3771.93,Credit Card,Cancelled,Mumbai
+ORD10102,2026-02-24,CUST1091,Smart Watch,Electronics,3,3165.03,9495.09,Debit Card,Processing,Bengaluru
+ORD10067,2026-06-20,CUST1241,Water Bottle,Home & Kitchen,2,634.38,1268.76,Cash on Delivery,Shipped,Ahmedabad
+ORD10400,2026-07-11,CUST1133,Mechanical Keyboard,Electronics,3,2290.58,6871.74,Net Banking,Returned,Ahmedabad
+ORD10426,2026-06-02,CUST1138,Backpack,Bags,3,1816.42,5449.26,Credit Card,Processing,Bengaluru
+ORD10007,2026-03-17,CUST1213,Mechanical Keyboard,Electronics,4,2183.23,8732.92,Net Banking,Processing,Ahmedabad
+ORD10063,2026-05-11,CUST1030,Webcam,Electronics,3,2157.04,6471.12,Cash on Delivery,Returned,Nagpur
+ORD10072,2026-01-12,CUST1063,Jeans,Fashion,2,1787.52,3575.04,Cash on Delivery,Returned,Mumbai
+ORD10407,2026-02-17,CUST1164,Jeans,Fashion,4,2076.82,8307.28,Cash on Delivery,Cancelled,Pune
+ORD10412,2026-04-01,CUST1217,Power Bank,Electronics,5,1325.52,6627.60,Cash on Delivery,Returned,Nashik
+ORD10053,2026-02-07,CUST1111,Smart Watch,Electronics,3,3585.61,10756.83,Credit Card,Delivered,Bengaluru
+ORD10237,2026-06-16,CUST1086,Webcam,Electronics,1,2422.75,2422.75,Credit Card,Shipped,Pune
+ORD10049,2026-06-12,CUST1219,T-Shirt,Fashion,3,819.06,2457.18,Debit Card,Returned,Chennai
+ORD10282,2026-01-28,CUST1082,Jeans,Fashion,3,2007.98,6023.94,Credit Card,Cancelled,Mumbai
+ORD10384,2026-04-16,CUST1100,Smart Watch,Electronics,4,2987.10,11948.40,UPI,Returned,Nagpur
+ORD10232,2026-07-29,CUST1052,Water Bottle,Home & Kitchen,4,796.78,3187.12,Net Banking,,Bengaluru
+ORD10438,2026-04-03,CUST1065,Smart Watch,Electronics,3,3072.13,9216.39,UPI,Processing,Nashik
+ORD10208,2026-05-31,CUST1103,Smart Watch,Electronics,1,3229.56,3229.56,Net Banking,Delivered,Delhi
+ORD10016,2026-01-13,CUST1221,Water Bottle,Home & Kitchen,4,613.21,2452.84,UPI,Shipped,Nashik
+ORD10090,2026-07-19,CUST1246,Webcam,Electronics,2,2298.05,4596.10,UPI,Delivered,Nagpur
+ORD10420,2026-03-15,CUST1044,Wireless Mouse,Electronics,3,641.30,1923.90,Cash on Delivery,Returned,Chennai
+ORD10134,2026-03-21,CUST1142,Jeans,Fashion,2,2124.81,4249.62,UPI,Returned,Delhi
+ORD10154,2026-04-27,CUST1217,Laptop Stand,Accessories,4,1373.17,5492.68,Debit Card,Shipped,Delhi
+ORD10347,2026-07-01,CUST1037,Bluetooth Headphones,Electronics,2,1879.50,3759.00,Cash on Delivery,Delivered,Kolkata
+ORD10026,2026-05-13,CUST1116,Power Bank,Electronics,3,1471.16,4413.48,UPI,Shipped,Nagpur
+ORD10263,2026-06-30,CUST1115,Mechanical Keyboard,Electronics,3,2705.14,8115.42,Credit Card,Returned,Bengaluru
+ORD10203,2026-02-14,CUST1034,Wireless Mouse,Electronics,4,750.80,3003.20,Cash on Delivery,Returned,Nagpur
+ORD10183,2026-03-12,CUST1160,Backpack,Bags,2,1564.60,3129.20,Net Banking,Returned,Hyderabad
+ORD10128,2026-03-24,CUST1172,Phone Case,Accessories,3,485.28,1455.84,UPI,Shipped,Hyderabad
+ORD10365,2026-07-28,CUST1179,Water Bottle,Home & Kitchen,3,597.74,1793.22,Cash on Delivery,Shipped,Mumbai
+ORD10047,2026-06-19,CUST1027,Wireless Mouse,Electronics,5,656.93,3284.65,Credit Card,Processing,Mumbai
+ORD10076,2026-05-24,CUST1153,Jeans,Fashion,4,2099.50,8398.00,Debit Card,Cancelled,Ahmedabad
+ORD10168,2026-05-07,CUST1030,Wireless Mouse,Electronics,1,657.98,657.98,UPI,Shipped,Kolkata
+ORD10428,2026-08-10,CUST1168,Desk Lamp,Home & Kitchen,1,1376.15,1376.15,Credit Card,Shipped,Nagpur
+ORD10111,2026-06-28,CUST1242,Wireless Mouse,Electronics,1,710.19,710.19,Credit Card,Cancelled,Mumbai
+ORD10021,2026-02-11,CUST1139,Bluetooth Headphones,Electronics,2,1923.39,3846.78,Net Banking,Delivered,Ahmedabad
+ORD10309,2026-03-11,CUST1239,Bluetooth Headphones,Electronics,2,2195.67,4391.34,Net Banking,Processing,Nashik
+ORD10361,2026-08-03,CUST1217,Running Shoes,Footwear,1,2919.82,2919.82,UPI,Delivered,Pune
+ORD10424,2026-03-02,CUST1054,Phone Case,Accessories,1,540.26,540.26,Net Banking,Processing,Ahmedabad
+ORD10156,2026-08-01,CUST1169,T-Shirt,Fashion,3,770.07,2310.21,Cash on Delivery,Processing,Pune
+ORD10352,2026-02-18,CUST1247,Laptop Stand,Accessories,1,1186.69,1186.69,UPI,Cancelled,Nagpur
+ORD10414,2026-04-06,CUST1178,Bluetooth Headphones,Electronics,3,1769.28,5307.84,Credit Card,Returned,Delhi
